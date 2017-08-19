@@ -1,2 +1,2 @@
 # p6
-udacity fend project 5 - Frogger-like arcade game
+udacity fend project 6 - Frogger-like arcade game
